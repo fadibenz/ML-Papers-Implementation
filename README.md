@@ -15,9 +15,9 @@ My implementation follows a modular structure, each repository consists of the f
 
 
 ## 📌 Table of Contents
-- [Attention is all you need](#attention-is-all-you-need-by-vaswani-et-al.)
-- [ViT](#an-image-is-worth-16x16-words:-transformers-for-image-recognition-at-scale-(vit)-by-dosovitskiy-et-al.)
-- [Masked Autoencoders](#masked-autoencoders-are-scalable-vision-leearners-(MAE)-by-he-et-al.)
+- [Attention is all you need](#attention-is-all-you-need-by-vaswani-et-al)
+- [ViT](#an-image-is-worth-16x16-words-transformers-for-image-recognition-at-scale-vit-by-dosovitskiy-et-al)
+- [Masked Autoencoders](#masked-autoencoders-are-scalable-vision-learners-mae-by-he-et-al)
 
 ---
 
