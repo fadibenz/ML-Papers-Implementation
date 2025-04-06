@@ -48,7 +48,7 @@ For the final test I trained my ViT on the CIFAR10 dataset, you can find the res
 ---
 
 ### Masked Autoencoders Are Scalable Vision Learners (MAE) By He et al.:
-#### 📂 **Project Repo:** [MAE]()
+#### 📂 **Project Repo:** [MAE](https://github.com/fadibenz/MaskedAutoencoders)
 #### 📝 **Description:**
 
 I followed a modular implementation approach, strating with image patchify/unpatchify, the random masking,  transformer part (With learnable positional encoding and CLS token) and finally the full MAE encoder/decoder, you can find each under `MaskedAutoencoder/architectures`.
